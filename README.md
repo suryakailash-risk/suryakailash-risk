@@ -47,8 +47,7 @@ I work across **LLMs, semantic search, predictive analytics, and intelligent aut
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/suryakailash  
 💻 **GitHub:** https://github.com/suryakailash  
-🌐 **Portfolio:** _(add link)_
-
+🌐 **Portfolio:** https://suryakailash.netlify.app/
 ---
 
 ⭐ If you’re exploring **ML Engineering, AI Engineering, or Data Science** collaboration, feel free to reach out.
