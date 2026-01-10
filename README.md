@@ -19,6 +19,12 @@ I work across **LLMs, semantic search, predictive analytics, and intelligent aut
 </a>
 </p>
 
+## 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=suryakailash&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🛠️ Tools & Technologies
