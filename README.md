@@ -23,6 +23,10 @@ I work across **LLMs, semantic search, predictive analytics, and intelligent aut
 </a>
 </p>
 
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ---
 
