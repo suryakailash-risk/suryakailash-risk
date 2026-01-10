@@ -29,58 +29,39 @@ I work across **LLMs, semantic search, predictive analytics, and intelligent aut
 ## 🛠️ Tools & Technologies
 
 ### 💻 Languages
-- 🐍 Python  
-- 🧮 SQL  
-- 🌐 JavaScript  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> **Python**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="18"/> **SQL**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="18"/> **JavaScript**
+
+---
 
 ### 🤖 Machine Learning & AI
-- LLMs, NLP, semantic search  
-- Predictive modeling, anomaly detection  
-- scikit-learn, pandas, NumPy  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="18"/> **scikit-learn**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="18"/> **pandas**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="18"/> **NumPy**
+- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="18"/> **PyTorch**
+- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="18"/> **TensorFlow**
+- **LLMs, NLP, semantic search, predictive modeling, anomaly detection**
+
+---
 
 ### ☁️ Data & Cloud
-- Azure Databricks  
-- Azure ML  
-- Cloud storage & analytics workflows  
+- <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="18"/> **Azure**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Azure_Databricks_Logo.svg" width="18"/> **Azure Databricks**
+- **Cloud storage & analytics workflows**
+
+---
 
 ### 🔌 Backend & Frontend
-- ⚙️ Flask / FastAPI  
-- 🅰️ Angular  
-- ⚛️ React  
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/> **Flask / FastAPI**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="18"/> **Angular**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="18"/> **React**
+
+---
 
 ### 📈 Visualization & BI
-- 📊 Power BI  
-- 📉 Analytics dashboards  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="18"/> **Power BI**
+- 📊 **Analytics dashboards**
 
 ---
-
-## 🧰 Languages & Tools (Icon View)
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wqrwerrq&show_icons=true&locale=en&layout=compact" alt="wqrwerrq" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wqrwerrq&show_icons=true&locale=en" alt="wqrwerrq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wqrwerrq&" alt="wqrwerrq" /></p>
----
-
 ⭐ If you’re exploring **ML Engineering, AI Engineering, or Data Science** collaboration, feel free to reach out.
