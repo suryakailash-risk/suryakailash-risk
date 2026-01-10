@@ -24,9 +24,9 @@ I work across **LLMs, semantic search, predictive analytics, and intelligent aut
 </p>
 
 ---
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 
 ---
 
