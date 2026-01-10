@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Surya Kailash Ramesh
 
+![Profile Views](https://komarev.com/ghpvc/?username=suryakailash&label=Profile%20Views&style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/suryakailash/suryakailash?label=Last%20Commit&style=flat)
+
+
 🧠 **Data Scientist & ML Engineer** building **production-grade AI systems** — not notebook-only demos.
 
 I work across **LLMs, semantic search, predictive analytics, and intelligent automation**, owning the full lifecycle from data ingestion and modeling to APIs, dashboards, and cloud deployment. My focus is on scalability, measurable impact, and systems that actually ship.
@@ -19,11 +23,6 @@ I work across **LLMs, semantic search, predictive analytics, and intelligent aut
 </a>
 </p>
 
-## 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=suryakailash&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
