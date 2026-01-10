@@ -70,18 +70,12 @@ I work across **LLMs, semantic search, predictive analytics, and intelligent aut
 
 ## 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryakailash&show_icons=true&layout=compact" />
-</p>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=suryakailash&show_icons=true" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wqrwerrq&show_icons=true&locale=en&layout=compact" alt="wqrwerrq" /></p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suryakailash" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wqrwerrq&show_icons=true&locale=en" alt="wqrwerrq" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wqrwerrq&" alt="wqrwerrq" /></p>
 ---
 
 ⭐ If you’re exploring **ML Engineering, AI Engineering, or Data Science** collaboration, feel free to reach out.
