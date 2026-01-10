@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Surya Kailash Ramesh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suryakailash&label=Profile%20Views&style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/suryakailash/suryakailash?label=Last%20Commit&style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/suryakailash-risk/nbvehs/main?label=Latest%20Commit&style=flat)
 
 
 🧠 **Data Scientist & ML Engineer** building **production-grade AI systems** — not notebook-only demos.
