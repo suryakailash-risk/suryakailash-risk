@@ -28,7 +28,7 @@ I work across **LLMs, semantic search, predictive analytics, and intelligent aut
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2026 - To: 13 January 2026
+From: 07 January 2026 - To: 14 January 2026
 
 Python       38 mins         █████████████████████████   99.96 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
