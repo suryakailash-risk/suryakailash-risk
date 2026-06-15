@@ -28,7 +28,7 @@ I work across **LLMs, semantic search, predictive analytics, and intelligent aut
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2026 - To: 13 June 2026
+From: 07 June 2026 - To: 14 June 2026
 
 No activity tracked
 ```
